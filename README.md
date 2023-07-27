@@ -1,3 +1,8 @@
-# SparkChat
+# Unichat boilerplace
 
-Real-time chat app using React, Firebase, and ChatEngine API. It allows users to authenticate securely, send and receive real-time messages, customize profiles with avatars, create group chats and direct messages, receive push notifications, share images and files, and supports rich text formatting. The app showcases my expertise in front-end development, integration with Firebase, and working with third-party APIs, while delivering a responsive and engaging user experience.
+This is a modded creat-react-app project. It comes with:
+
+- A manifest with correct packages
+- Useless files taken out
+- Needed folder structure
+- CSS
